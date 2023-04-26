@@ -1,0 +1,12 @@
+.book{
+    border: 1px solid lightslategray;
+    border-radius: 5px;
+}
+
+.book img {
+    width: 100%;
+}
+
+label {
+    display: block;
+}
